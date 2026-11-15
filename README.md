@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**ibtihalch/ibtihalch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ibtihal! 👋
 
-Here are some ideas to get you started:
+### Software Engineering Student | Full-Stack Developer & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Final-year Software Engineering & Intelligent Systems student at ENSAM Meknès.
+
+💻 Passionate about building modern web applications and integrating AI into real-world solutions.
+
+🚀 Currently looking for a 5–6 month final-year internship (PFE) starting February 2027.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Material UI
+
+**Backend:** ASP.NET Core, Spring Boot, FastAPI
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**AI & ML:** Python, TensorFlow, Keras, MediaPipe
+
+## 🚀 Featured Projects
+
+- **AuditFlow** — Intelligent Audit Management Platform
+- **ASL Translator** — AI-powered Sign Language Recognition
+- **QuizAR** — Online Examination Platform
+- **Gestion Commerciale** — Full-Stack Business Management Application
+- **SBAGH** — AI-powered Painting Estimation Platform
+
+## 🌐 Connect With Me
+
+🌍 Portfolio: https://www.ibtihalchemlali.me
+
+💼 LinkedIn: https://www.linkedin.com/in/ibtihal-chemlali-780142263
+
+💻 GitHub: https://github.com/ibtihalch
+  
